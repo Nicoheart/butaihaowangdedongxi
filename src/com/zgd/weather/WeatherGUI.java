@@ -3,7 +3,7 @@
  * @Copyright (C) 2015 Harbin Institute of Technology
  * @Progect: WeatherUtil
  * @Package com.zgd.weather
- * @Author 郑桂东
+ * @Author zgd
  * @Date 2015年4月17日 下午10:31:29
  */
 package com.zgd.weather;
@@ -38,7 +38,7 @@ import javax.swing.JTextArea;
 /**
  * @Class: WeatherGUI
  * @Date 2015年4月17日 下午10:31:29
- * @Author 郑桂东
+ * @Author zgd
  * @Version
  */
 public class WeatherGUI extends JFrame {
