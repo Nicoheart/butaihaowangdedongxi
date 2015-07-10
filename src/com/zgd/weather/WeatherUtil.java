@@ -2,7 +2,7 @@
  * @Copyright (C) 2015 Harbin Institute of Technology
  * @Progect: HelloSoap
  * @Package Client
- * @Author 郑桂东
+ * @Author ZGD
  * @Date 2015年4月16日 下午11:01:12
  */
 package com.zgd.weather;
@@ -10,7 +10,7 @@ package com.zgd.weather;
 /**
  * @Class: WeatherUtil
  * @Date 2015年4月16日 下午11:01:12
- * @Author 郑桂东
+ * @Author ZGD
  * @Version
  */
 import java.io.IOException;
